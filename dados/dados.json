@@ -1,0 +1,187 @@
+[{
+  "ano": "2022",
+  "nome_curso_cine": "Pedagogia",
+  "matriculas_feminino": "755200",
+  "total": "821864",
+  "taxa": "0.91888682312402048"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Serviço social",
+  "matriculas_feminino": "117289",
+  "total": "130342",
+  "taxa": "0.89985576406683954"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Biomedicina",
+  "matriculas_feminino": "134716",
+  "total": "157157",
+  "taxa": "0.85720648777973618"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Enfermagem",
+  "matriculas_feminino": "381829",
+  "total": "457385",
+  "taxa": "0.83480874974037189"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Nutrição",
+  "matriculas_feminino": "135770",
+  "total": "167784",
+  "taxa": "0.80919515567634581"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Psicologia",
+  "matriculas_feminino": "249746",
+  "total": "314319",
+  "taxa": "0.79456221227479085"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Fisioterapia",
+  "matriculas_feminino": "151495",
+  "total": "199960",
+  "taxa": "0.757626525305061"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Letras português formação de professor",
+  "matriculas_feminino": "62714",
+  "total": "84176",
+  "taxa": "0.74503421402775138"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Odontologia",
+  "matriculas_feminino": "112593",
+  "total": "156633",
+  "taxa": "0.71883319606979368"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Farmácia",
+  "matriculas_feminino": "137543",
+  "total": "192080",
+  "taxa": "0.71607142857142858"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Medicina veterinária",
+  "matriculas_feminino": "98850",
+  "total": "141119",
+  "taxa": "0.70047265074157272"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Arquitetura e urbanismo",
+  "matriculas_feminino": "78386",
+  "total": "117012",
+  "taxa": "0.66989710457047136"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Biologia formação de professor",
+  "matriculas_feminino": "50743",
+  "total": "76264",
+  "taxa": "0.66535980279030738"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Medicina",
+  "matriculas_feminino": "150790",
+  "total": "245501",
+  "taxa": "0.61421338405953541"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Publicidade e propaganda",
+  "matriculas_feminino": "37191",
+  "total": "61985",
+  "taxa": "0.6"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Administração",
+  "matriculas_feminino": "378023",
+  "total": "638789",
+  "taxa": "0.59178069753862383"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Contabilidade",
+  "matriculas_feminino": "192434",
+  "total": "327499",
+  "taxa": "0.58758652698176173"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Direito",
+  "matriculas_feminino": "378748",
+  "total": "671726",
+  "taxa": "0.5638429955070966"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "História formação de professor",
+  "matriculas_feminino": "45972",
+  "total": "94144",
+  "taxa": "0.4883157715839565"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Geografia formação de professor",
+  "matriculas_feminino": "24586",
+  "total": "51068",
+  "taxa": "0.48143651601785853"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Matemática formação de professor",
+  "matriculas_feminino": "40794",
+  "total": "94318",
+  "taxa": "0.43251553256006275"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Educação física formação de professor",
+  "matriculas_feminino": "46049",
+  "total": "115221",
+  "taxa": "0.39965804844602981"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Educação física",
+  "matriculas_feminino": "91922",
+  "total": "254383",
+  "taxa": "0.361352763352897"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Engenharia de produção",
+  "matriculas_feminino": "37734",
+  "total": "118742",
+  "taxa": "0.31778140843172592"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Agronomia",
+  "matriculas_feminino": "38278",
+  "total": "121769",
+  "taxa": "0.3143493007251435"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Economia",
+  "matriculas_feminino": "20699",
+  "total": "66789",
+  "taxa": "0.30991630358292532"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Engenharia civil",
+  "matriculas_feminino": "53843",
+  "total": "184784",
+  "taxa": "0.2913834531128236"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Sistemas de informação",
+  "matriculas_feminino": "10857",
+  "total": "67182",
+  "taxa": "0.16160578726444583"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Ciência da computação",
+  "matriculas_feminino": "11971",
+  "total": "92908",
+  "taxa": "0.12884789253885565"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Engenharia elétrica",
+  "matriculas_feminino": "11338",
+  "total": "94930",
+  "taxa": "0.11943537343305594"
+}, {
+  "ano": "2022",
+  "nome_curso_cine": "Engenharia mecânica",
+  "matriculas_feminino": "11129",
+  "total": "104473",
+  "taxa": "0.1065251308950638"
+}]
