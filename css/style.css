@@ -101,7 +101,7 @@ figcaption {
 }
 
 .content {
-  backdrop-filter: blur(3px);
+  backdrop-filter: blur(10px);
   background-color: rgba(243, 247, 236, 0.5);
   border-radius: 16px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
